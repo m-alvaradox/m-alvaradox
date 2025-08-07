@@ -8,7 +8,7 @@ Road to Computer Science 👨‍💻🐢
 <a target="_blank" href="https://www.instagram.com/m_alvaradox/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a> </p>
 
 ## Lenguajes y herramientas que he utilizado:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,python,java,cpp,mysql,postgresql,linux,r,azure,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,python,java,cpp,mysql,postgresql,linux,r,azure,gcp,php,ruby,dart)](https://skillicons.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-alvaradox&layout=compact&theme=radical)
 
@@ -22,25 +22,36 @@ Road to Computer Science 👨‍💻🐢
 
 Algunos de mis proyectos que he realizado durante mi paso como estudiante, pasante y tiempo libre. Falta mucho por construir, pero es el inicio.
 
-### 1. [PickOCR](https://github.com/m-alvaradox/PickOCR) 🔍
+### 1. [EduClick](https://github.com/m-alvaradox/EduClick) 
+
+EduClick es un prototipo de aplicación educativa offline diseñada para estudiantes de secundaria. Su objetivo es convertir el uso de la tecnología en una herramienta útil para el aprendizaje a través de juegos interactivos basados en la malla curricular ecuatoriana. Los estudiantes pueden aprender jugando, sin necesidad de conexión a internet. 
+
+Características: Progressive Web App (PWA), interfaz responsiva para móviles y tablets
+
+**Tecnologías**:
+`HTML`, `CSS`, `JavaScript` 
+
+---
+
+### 2. [PlantaCheck Dashboard](https://github.com/m-alvaradox/PlantaCheck_Dashboard)
+
+Aplicación web interactiva para visualizar el estado de plantas en tiempo real. Muestra datos como humedad, temperatura, luz y nivel de agua mediante gráficos dinámicos y actualizaciones en vivo. Ideal para proyectos de agricultura inteligente o automatización de jardines.
+Integra la API de OpenMeteo para obtener datos meteorológicos actualizados y los presenta de forma clara mediante gráficos interactivos. Ideal para proyectos de domótica o agricultura inteligente.
+
+**Tecnologías**:
+`React`, `CSS`, `JavaScript`, `TypeScript`, `OpenMeteo API`  
+
+---
+
+### 3. [PickOCR](https://github.com/m-alvaradox/PickOCR) 🔍
 
 PickOCR es una herramienta web que permite escanear productos desde imágenes o fotos y extraer automáticamente su código y precio mediante tecnología OCR. Está diseñada para facilitar el registro dinámico de productos y generar reportes fácilmente exportables.
 
 - **Tecnologías**:
   `JavaScript`, `HTML`, `CSS`, `Canvas API`, `OCR (Google)`, `Flask`, `Google Drive API`, `SheetJS`
 
----
 
-### 2. [Format Excel](https://github.com/m-alvaradox/FormatExcel) 📄
-
-Aplicación web que permite subir archivos de Excel y aplicar formatos y filtros automáticamente. Realiza validaciones, elimina filas vacías, filtra por ítems definidos, añade columnas condicionales, y genera un nuevo archivo listo para su uso.
-
-- **Tecnologías**:
-  `Python`, `Flask`, `Pandas`, `HTML`, `CSS`, `JavaScript`
-
----
-
-### 3. [BibleSPACE](https://github.com/m-alvaradox/BibleSPACE) 📷
+### 4. [BibleSPACE](https://github.com/m-alvaradox/BibleSPACE) 📷
 
 BibleSPACE fue parte de mi proyecto de POO en 2022, junto con [Andrés Layedra](https://github.com/Anlaye22) y [Austin Estrella](https://github.com/starAus20)
 
@@ -58,7 +69,7 @@ Este sistema permite:
 
 ---
 
-### 4. [CarSPACE](https://github.com/m-alvaradox/CarSPACE) 🚗
+### 5. [CarSPACE](https://github.com/m-alvaradox/CarSPACE) 🚗
 
 [Andrés Layedra](https://github.com/Anlaye22), [Yadira Suárez](https://github.com/YadiSuarez), y yo trabajamos en CarSPACE como parte del proyecto de Estructuras de Datos en 2024.
 
@@ -77,14 +88,15 @@ Reparaciones o Procesos de mantenimiento como cambio de aceite o de filtros
 `Java`, `JavaFX`
 
 ---
+---
 
-Otros proyectos como: PetFeeder, ChatSPACE, OCRiON
+Otros proyectos como: PetFeeder, ChatSPACE, OCRiON, Landing Page
 
 ## 🎯 Intereses
 
 * Musica 🎼🎸
 * Natación 🏊
-* Gym (Prox.) 🏋️
+* Gym 🏋️
 * 📊 Ciencia de datos, análisis estadístico y visualización de la información
 * 🤖 Inteligencia artificial y automatización de procesos
 * 🛠️ Creación de herramientas útiles para la productividad
