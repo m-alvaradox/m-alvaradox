@@ -22,9 +22,9 @@ Road to Computer Science 👨‍💻🐢
 
 Algunos de mis proyectos que he realizado durante mi paso como estudiante, pasante y tiempo libre. Falta mucho por construir, pero es el inicio.
 
-### 1. [EcoClick](https://github.com/m-alvaradox/EcoClick) 
+### 1. [EcoClick - APP Educativa Ecológica](https://github.com/m-alvaradox/EcoClick) 
 
-EcoClick es una aplicación educativa gamificada pensada para niños de educación básica, enfocada en el cuidado del medio ambiente mediante mini-juegos sobre reciclaje, biodiversidad y protección del entorno.
+EcoClick es una aplicación web educativa gamificada pensada para niños de educación básica, enfocada en el cuidado del medio ambiente mediante mini-quizzes sobre reciclaje, biodiversidad y protección del entorno.
 
 Tecnologías utilizadas:
 
@@ -38,9 +38,9 @@ La elección de estas tecnologías le da a EcoClick un equilibrio entre accesibi
 
 ---
 
-### 2. [EduClick](https://github.com/m-alvaradox/EduClick) 
+### 2. [EduClick - APP de Aprendizaje Gamificado para Escuelas y Colegios](https://github.com/m-alvaradox/EduClick) 
 
-EduClick es un prototipo de aplicación educativa offline diseñada para estudiantes de secundaria. Su objetivo es convertir el uso de la tecnología en una herramienta útil para el aprendizaje a través de juegos interactivos basados en la malla curricular ecuatoriana. Los estudiantes pueden aprender jugando, sin necesidad de conexión a internet. 
+EduClick es un prototipo de aplicación web educativa offline diseñada para estudiantes de secundaria. Su objetivo es convertir el uso de la tecnología en una herramienta útil para el aprendizaje a través de juegos interactivos basados en la malla curricular ecuatoriana. Los estudiantes pueden aprender jugando, sin necesidad de conexión a internet. 
 
 Características: Progressive Web App (PWA), interfaz responsiva para móviles y tablets
 
@@ -49,7 +49,7 @@ Características: Progressive Web App (PWA), interfaz responsiva para móviles y
 
 ---
 
-### 3. [PlantaCheck Dashboard](https://github.com/m-alvaradox/PlantaCheck_Dashboard)
+### 3. [PlantaCheck - Dashboard para tus plantas](https://github.com/m-alvaradox/PlantaCheck_Dashboard)
 
 Aplicación web interactiva para visualizar el estado de plantas en tiempo real. Muestra datos como humedad, temperatura, luz y nivel de agua mediante gráficos dinámicos y actualizaciones en vivo. Ideal para proyectos de agricultura inteligente o automatización de jardines.
 Integra la API de OpenMeteo para obtener datos meteorológicos actualizados y los presenta de forma clara mediante gráficos interactivos. Ideal para proyectos de domótica o agricultura inteligente.
@@ -59,7 +59,7 @@ Integra la API de OpenMeteo para obtener datos meteorológicos actualizados y lo
 
 ---
 
-### 4. [PickOCR](https://github.com/m-alvaradox/PickOCR) 
+### 4. [PickOCR - Registra Productos con OCR](https://github.com/m-alvaradox/PickOCR) 
 
 PickOCR es una herramienta web que permite escanear productos desde imágenes o fotos y extraer automáticamente su código y precio mediante tecnología OCR. Está diseñada para facilitar el registro dinámico de productos y generar reportes fácilmente exportables.
 
@@ -67,7 +67,7 @@ PickOCR es una herramienta web que permite escanear productos desde imágenes o 
   `JavaScript`, `HTML`, `CSS`, `Canvas API`, `OCR (Google)`, `Flask`, `Google Drive API`, `SheetJS`
 
 
-### 5. [BibleSPACE](https://github.com/m-alvaradox/BibleSPACE) 
+### 5. [BibleSPACE - Galería de Imágenes](https://github.com/m-alvaradox/BibleSPACE) 
 
 BibleSPACE fue parte de mi proyecto de POO en 2022, junto con [Andrés Layedra](https://github.com/Anlaye22) y [Austin Estrella](https://github.com/starAus20)
 
@@ -85,7 +85,7 @@ Este sistema permite:
 
 ---
 
-### 6. [CarSPACE](https://github.com/m-alvaradox/CarSPACE) 
+### 6. [CarSPACE - Plataforma de Comercialización de Vehículos ](https://github.com/m-alvaradox/CarSPACE) 
 
 [Andrés Layedra](https://github.com/Anlaye22), [Yadira Suárez](https://github.com/YadiSuarez), y yo trabajamos en CarSPACE como parte del proyecto de Estructuras de Datos en 2024.
 
@@ -106,7 +106,7 @@ Reparaciones o Procesos de mantenimiento como cambio de aceite o de filtros
 ---
 ---
 
-Otros proyectos como: PetFeeder, ChatSPACE, OCRiON, Landing Page
+Otros proyectos como: PetFeeder (Dispensador de Alimentos para Gatos), ChatSPACE (Simulación de Chat en Tiempo Real), OCRiON (Clasificador de Imágenes), Landing Page (Restaurante Típico de Ecuador)
 
 ## Intereses
 
