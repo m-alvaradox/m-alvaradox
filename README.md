@@ -1,7 +1,5 @@
 # Bienvenido a mi Perfil
 
-Coding with ☕️ & 🐰
-
 ¡Hola!, mi nombre es Mario y soy estudiante de Ingeniería en Ciencias Computacionales de la ESPOL. Siempre con disposición de recibir retroalimentación y aprender diariamente.
 
 
