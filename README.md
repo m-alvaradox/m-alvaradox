@@ -70,7 +70,8 @@ PickOCR es una herramienta web que permite escanear productos desde imágenes o 
 
 - **Tecnologías**:
   `JavaScript`, `HTML`, `CSS`, `Canvas API`, `OCR (Google)`, `Flask`, `Google Drive API`, `SheetJS`
-
+  
+---
 
 ### 6. [BibleSPACE - Galería de Imágenes](https://github.com/m-alvaradox/BibleSPACE) 
 
@@ -108,7 +109,6 @@ Reparaciones o Procesos de mantenimiento como cambio de aceite o de filtros
 **Tecnologías**:
 `Java`, `JavaFX`
 
----
 ---
 
 Otros proyectos como: PetFeeder (Dispensador de Alimentos para Gatos), ChatSPACE (Simulación de Chat en Tiempo Real), OCRiON (Clasificador de Imágenes), Landing Page (Restaurante Típico de Ecuador)
