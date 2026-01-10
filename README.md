@@ -17,7 +17,17 @@
 
 Algunos de mis proyectos que he realizado durante mi paso como estudiante, pasante y tiempo libre. Falta mucho por construir, pero es el inicio.
 
-### 1. [EcoClick - APP Educativa Ecológica](https://github.com/m-alvaradox/EcoClick) 
+### 1. Nissi - Transformando el control del inventario con Inteligencia Artificial
+
+Desarrollé un dashboard inteligente para gestión de inventario, totalmente conectado a una IA integrada que analiza, responde y genera predicciones en tiempo real. El sistema no solo registra movimientos o calcula stock: sino que razona sobre los datos, identifica productos en riesgo, sugiere decisiones y permite conversar directamente con la IA dentro del mismo panel.
+
+Tecnologías utilizadas:
+
+`PHP`, `MySQL`, `FastAPI`, `Scikit-learn`, `Gemini API`
+
+---
+
+### 2. [EcoClick - APP Educativa Ecológica](https://github.com/m-alvaradox/EcoClick) 
 
 EcoClick es una aplicación web educativa gamificada pensada para niños de educación básica, enfocada en el cuidado del medio ambiente mediante mini-quizzes sobre reciclaje, biodiversidad y protección del entorno.
 
@@ -33,7 +43,7 @@ La elección de estas tecnologías le da a EcoClick un equilibrio entre accesibi
 
 ---
 
-### 2. [EduClick - APP de Aprendizaje Gamificado para Escuelas y Colegios](https://github.com/m-alvaradox/EduClick) 
+### 3. [EduClick - APP de Aprendizaje Gamificado para Escuelas y Colegios](https://github.com/m-alvaradox/EduClick) 
 
 EduClick es un prototipo de aplicación web educativa offline diseñada para estudiantes de secundaria. Su objetivo es convertir el uso de la tecnología en una herramienta útil para el aprendizaje a través de juegos interactivos basados en la malla curricular ecuatoriana. Los estudiantes pueden aprender jugando, sin necesidad de conexión a internet. 
 
@@ -44,7 +54,7 @@ Características: Progressive Web App (PWA), interfaz responsiva para móviles y
 
 ---
 
-### 3. [PlantaCheck - Dashboard para tus plantas](https://github.com/m-alvaradox/PlantaCheck_Dashboard)
+### 4. [PlantaCheck - Dashboard para tus plantas](https://github.com/m-alvaradox/PlantaCheck_Dashboard)
 
 Aplicación web interactiva para visualizar el estado de plantas en tiempo real. Muestra datos como humedad, temperatura, luz y nivel de agua mediante gráficos dinámicos y actualizaciones en vivo. Ideal para proyectos de agricultura inteligente o automatización de jardines.
 Integra la API de OpenMeteo para obtener datos meteorológicos actualizados y los presenta de forma clara mediante gráficos interactivos. Ideal para proyectos de domótica o agricultura inteligente.
@@ -54,7 +64,7 @@ Integra la API de OpenMeteo para obtener datos meteorológicos actualizados y lo
 
 ---
 
-### 4. [PickOCR - Registra Productos con OCR](https://github.com/m-alvaradox/PickOCR) 
+### 5. [PickOCR - Registra Productos con OCR](https://github.com/m-alvaradox/PickOCR) 
 
 PickOCR es una herramienta web que permite escanear productos desde imágenes o fotos y extraer automáticamente su código y precio mediante tecnología OCR. Está diseñada para facilitar el registro dinámico de productos y generar reportes fácilmente exportables.
 
@@ -62,7 +72,7 @@ PickOCR es una herramienta web que permite escanear productos desde imágenes o 
   `JavaScript`, `HTML`, `CSS`, `Canvas API`, `OCR (Google)`, `Flask`, `Google Drive API`, `SheetJS`
 
 
-### 5. [BibleSPACE - Galería de Imágenes](https://github.com/m-alvaradox/BibleSPACE) 
+### 6. [BibleSPACE - Galería de Imágenes](https://github.com/m-alvaradox/BibleSPACE) 
 
 BibleSPACE fue parte de mi proyecto de POO en 2022, junto con [Andrés Layedra](https://github.com/Anlaye22) y [Austin Estrella](https://github.com/starAus20)
 
@@ -80,7 +90,7 @@ Este sistema permite:
 
 ---
 
-### 6. [CarSPACE - Plataforma de Comercialización de Vehículos ](https://github.com/m-alvaradox/CarSPACE) 
+### 7. [CarSPACE - Plataforma de Comercialización de Vehículos ](https://github.com/m-alvaradox/CarSPACE) 
 
 [Andrés Layedra](https://github.com/Anlaye22), [Yadira Suárez](https://github.com/YadiSuarez), y yo trabajamos en CarSPACE como parte del proyecto de Estructuras de Datos en 2024.
 
