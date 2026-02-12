@@ -6,11 +6,6 @@
 ## Lenguajes y herramientas que he utilizado:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,python,java,cpp,mysql,postgresql,linux,r,azure,gcp,php,ruby,dart)](https://skillicons.dev)
 
-## ¿Quién soy yo? 🤔
-
-* **Mi nombre es:** Mario
-* **Ocupo el cargo de:** Estudiante
-
 ## Mis Proyectos
 
 ### 1. [Nissi - Transformando el control del inventario con Inteligencia Artificial](https://www.linkedin.com/posts/malvaradox_desarrolloweb-inteligenciaartificial-gemini-activity-7380404277858582528-70Hl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWkm54B5tq1B8fk-dFvV8jwlSoCaiIyXvA) 
