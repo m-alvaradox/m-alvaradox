@@ -6,8 +6,6 @@
 ## Lenguajes y herramientas que he utilizado:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,python,java,cpp,mysql,postgresql,linux,r,azure,gcp,php,ruby,dart)](https://skillicons.dev)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-alvaradox&layout=compact&theme=radical)
-
 ## ¿Quién soy yo? 🤔
 
 * **Mi nombre es:** Mario
@@ -15,9 +13,7 @@
 
 ## Mis Proyectos
 
-Algunos de mis proyectos que he realizado durante mi paso como estudiante, pasante y tiempo libre. Falta mucho por construir, pero es el inicio.
-
-### 1. Nissi - Transformando el control del inventario con Inteligencia Artificial
+### 1. [Nissi - Transformando el control del inventario con Inteligencia Artificial](https://www.linkedin.com/posts/malvaradox_desarrolloweb-inteligenciaartificial-gemini-activity-7380404277858582528-70Hl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWkm54B5tq1B8fk-dFvV8jwlSoCaiIyXvA) 
 
 Desarrollé un dashboard inteligente para gestión de inventario, totalmente conectado a una IA integrada que analiza, responde y genera predicciones en tiempo real. El sistema no solo registra movimientos o calcula stock: sino que razona sobre los datos, identifica productos en riesgo, sugiere decisiones y permite conversar directamente con la IA dentro del mismo panel.
 
@@ -73,45 +69,7 @@ PickOCR es una herramienta web que permite escanear productos desde imágenes o 
   
 ---
 
-### 6. [BibleSPACE - Galería de Imágenes](https://github.com/m-alvaradox/BibleSPACE) 
-
-BibleSPACE fue parte de mi proyecto de POO en 2022, junto con [Andrés Layedra](https://github.com/Anlaye22) y [Austin Estrella](https://github.com/starAus20)
-
-Se trata de un sistema para administrar una biblioteca personal de fotografías. En gran parte de su funcionalidad, este sistema es similar al extinto Picasa (https://en.wikipedia.org/wiki/Picasa) o parecido a lo que hoy se conoce como Fotos de Icloud, Google Fotos.
-
-Este sistema permite:
-
-- Explorar fotografías de su computador organizadas en álbumes
-- Detallar las personas que aparecen en cada fotografía
-- Mostrar detalles sobre cuándo y dónde se tomó una fotografía
-- Hacer búsquedas simples (p. Ej. Mostrar todas las fotografías tomadas en París)
-
-**Tecnologías**:
-`Java`, `JavaFX`
-
----
-
-### 7. [CarSPACE - Plataforma de Comercialización de Vehículos ](https://github.com/m-alvaradox/CarSPACE) 
-
-[Andrés Layedra](https://github.com/Anlaye22), [Yadira Suárez](https://github.com/YadiSuarez), y yo trabajamos en CarSPACE como parte del proyecto de Estructuras de Datos en 2024.
-
-Se modeló e implementó varias de las funcionalidades de plataformas de comercialización de vehículos como como Patiotuerca 
-(https://ecuador.patiotuerca.com/) o CarGurus (https://www.cargurus.com/). 
-
-Permite a los usuarios realizar búsquedas de vehículos basado en varios  criterios, por lo cual almacenan información de cada auto como:  
-• Precio  
-• Marca, Modelo, Año, Kilometraje.  
-• Motor, Transmisión, Peso.  
-• Ubicación Actual del Vehículo.  
-• Historial de Accidentes y Servicio
-Reparaciones o Procesos de mantenimiento como cambio de aceite o de filtros  
-
-**Tecnologías**:
-`Java`, `JavaFX`
-
----
-
-Otros proyectos como: PetFeeder (Dispensador de Alimentos para Gatos), ChatSPACE (Simulación de Chat en Tiempo Real), OCRiON (Clasificador de Imágenes), Landing Page (Restaurante Típico de Ecuador)
+Otros proyectos como: PetFeeder (Dispensador de Alimentos para Gatos)
 
 ## Intereses
 
