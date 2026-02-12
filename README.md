@@ -73,7 +73,7 @@ Otros proyectos como: PetFeeder (Dispensador de Alimentos para Gatos)
 
 ## Intereses
 
-* Musica 🎼🎸
+* Música 🎼🎸
 * Natación 🏊
 * Gym 🏋️
 * 📊 Ciencia de datos, análisis estadístico y visualización de la información
