@@ -55,23 +55,9 @@ Integra la API de OpenMeteo para obtener datos meteorológicos actualizados y lo
 
 ---
 
-### 5. [PickOCR - Registra Productos con OCR](https://github.com/m-alvaradox/PickOCR) 
-
-PickOCR es una herramienta web que permite escanear productos desde imágenes o fotos y extraer automáticamente su código y precio mediante tecnología OCR. Está diseñada para facilitar el registro dinámico de productos y generar reportes fácilmente exportables.
-
-- **Tecnologías**:
-  `JavaScript`, `HTML`, `CSS`, `Canvas API`, `OCR (Google)`, `Flask`, `Google Drive API`, `SheetJS`
-  
----
-
 Otros proyectos como: PetFeeder (Dispensador de Alimentos para Gatos)
 
 ## Intereses
-
-* Música 🎼🎸
-* Natación 🏊
-* Gym 🏋️
 * 📊 Ciencia de datos, análisis estadístico y visualización de la información
 * 🤖 Inteligencia artificial y automatización de procesos
 * 🛠️ Creación de herramientas útiles para la productividad
-* Resolución de problemas
