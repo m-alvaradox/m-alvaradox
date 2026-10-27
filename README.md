@@ -4,7 +4,7 @@
 
 
 ## Lenguajes y herramientas que he utilizado:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,python,java,cpp,mysql,postgresql,linux,r,azure,gcp,php,ruby,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,php,ruby,dart,flutter,firebase,python,django,pytorch,laravel,nodejs,flask,java,cpp,c,postgresql,mysql,linux,r,azure,aws,gcp)](https://skillicons.dev)
 
 ## Mis Proyectos
 
