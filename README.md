@@ -1,10 +1,9 @@
 # Bienvenido a mi Perfil
 
-¡Hola!, mi nombre es Mario y soy estudiante de Ingeniería en Ciencias Computacionales de la ESPOL. Siempre con disposición de recibir retroalimentación y aprender diariamente.
-
+¡Hola!, mi nombre es Mario y soy estudiante de Ingeniería en Ciencias Computacionales. Siempre con disposición de recibir retroalimentación y aprender diariamente 😉😎
 
 ## Lenguajes y herramientas que he utilizado:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,php,ruby,dart,flutter,firebase,python,django,pytorch,laravel,nodejs,flask,java,cpp,c,postgresql,mysql,linux,r,azure,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,php,ruby,dart,flutter,firebase,python,django,pytorch,laravel,nodejs,flask,java,cpp,c,postgresql,mysql,linux,r,azure,aws,gcp,arduino)](https://skillicons.dev)
 
 ## Mis Proyectos
 
@@ -18,7 +17,17 @@ Tecnologías utilizadas:
 
 ---
 
-### 2. [EcoClick - APP Educativa Ecológica](https://github.com/m-alvaradox/EcoClick) 
+### 2. [Sistema de Transcripción Automática de Audio en Kichwa](https://github.com/m-alvaradox/ASR-Kichwa/tree/main) 
+
+Participé en la implementación de un sistema de reconocimiento de voz para un idioma de bajos recursos digitales, utilizando embeddings de Wav2Vec2, una arquitectura Conv1D y entrenamiento mediante CTC.
+
+Tecnologías utilizadas:
+
+`Deep Learning`, `Wav2Vec2`, `CTC`
+
+---
+
+### 3. [EcoClick - APP Educativa Ecológica](https://github.com/m-alvaradox/EcoClick) 
 
 EcoClick es una aplicación web educativa gamificada pensada para niños de educación básica, enfocada en el cuidado del medio ambiente mediante mini-quizzes sobre reciclaje, biodiversidad y protección del entorno.
 
@@ -34,18 +43,16 @@ La elección de estas tecnologías le da a EcoClick un equilibrio entre accesibi
 
 ---
 
-### 3. [EduClick - APP de Aprendizaje Gamificado para Escuelas y Colegios](https://github.com/m-alvaradox/EduClick) 
+### 4. [Sanity Track – Sistema de monitoreo IoT](https://github.com/m-alvaradox/SanityTrack) 
 
-EduClick es un prototipo de aplicación web educativa offline diseñada para estudiantes de secundaria. Su objetivo es convertir el uso de la tecnología en una herramienta útil para el aprendizaje a través de juegos interactivos basados en la malla curricular ecuatoriana. Los estudiantes pueden aprender jugando, sin necesidad de conexión a internet. 
-
-Características: Progressive Web App (PWA), interfaz responsiva para móviles y tablets
+Desarrollé una solución IoT para monitorear disponibilidad de insumos, calidad del aire y flujo de personas en instalaciones sanitarias, integrando sensores ESP32, comunicación MQTT y visualización web.
 
 **Tecnologías**:
-`HTML`, `CSS`, `JavaScript` 
+`ESP32`, `MQTT`, `IoT` 
 
 ---
 
-### 4. [PlantaCheck - Dashboard para tus plantas](https://github.com/m-alvaradox/PlantaCheck_Dashboard)
+### 5. [PlantaCheck - Dashboard para tus plantas](https://github.com/m-alvaradox/PlantaCheck_Dashboard)
 
 Aplicación web interactiva para visualizar el estado de plantas en tiempo real. Muestra datos como humedad, temperatura, luz y nivel de agua mediante gráficos dinámicos y actualizaciones en vivo. Ideal para proyectos de agricultura inteligente o automatización de jardines.
 Integra la API de OpenMeteo para obtener datos meteorológicos actualizados y los presenta de forma clara mediante gráficos interactivos. Ideal para proyectos de domótica o agricultura inteligente.
@@ -59,5 +66,6 @@ Otros proyectos como: PetFeeder (Dispensador de Alimentos para Gatos)
 
 ## Intereses
 * 📊 Ciencia de datos, análisis estadístico y visualización de la información
+* 🧑‍💻 Full Stack Dev
 * 🤖 Inteligencia artificial y automatización de procesos
 * 🛠️ Creación de herramientas útiles para la productividad
